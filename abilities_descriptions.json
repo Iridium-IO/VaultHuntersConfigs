@@ -34,7 +34,7 @@
     "Dash_Damage": {
       "description": [
         {
-          "text": "Turns your dashes into bullets, making you deal a percentage of your ",
+          "text": "Turns your dashes into bullets, dealing a percentage of your",
           "color": "$text"
         },
         {
@@ -79,7 +79,7 @@
           "color": "$text"
         },
         {
-          "text": "on impact",
+          "text": "on impact.",
           "color": "$name"
         },
         {
@@ -185,7 +185,7 @@
           "color": "$text"
         },
         {
-          "text": " \u2022 Beet Root\n",
+          "text": " \u2022 Beetroot\n",
           "color": "$text"
         },
         {
@@ -362,7 +362,7 @@
           "color": "$text"
         },
         {
-          "text": " \u2022 Melon\n",
+          "text": " \u2022 Melons\n",
           "color": "$text"
         },
         {
@@ -492,7 +492,7 @@
     "Heal_Cleanse": {
       "description": [
         {
-          "text": "Changes Heal to instead Cleanse any negative effect affecting you.\n\n",
+          "text": "Changes Heal to instead Cleanse negative effects from you.\n\n",
           "color": "$text"
         },
         {
@@ -513,7 +513,17 @@
     "Heal_Group": {
       "description": [
         {
-          "text": "Changes your Heal to a group heal! Healing yourself and teammates around you for an amount of ",
+          "text": "Changes your Heal to a group heal, healing yourself and ",
+          "color": "$text"
+        },
+        
+        {
+          "text": "nearby ",
+          "color": "$radius"
+        },
+        
+        {
+          "text": "teammates for an amount of ",
           "color": "$text"
         },
         {
@@ -606,6 +616,10 @@
           "color": "$chance"
         },
         {
+          "text": ".",
+          "color": "$text"
+        },
+        {
           "text": "\n\n\u2734 Cast Ability ",
           "color": "$castType"
         }
@@ -627,7 +641,7 @@
     "Hunter_Blocks": {
       "description": [
         {
-          "text": "Changes Hunter to instead display objectives within a ",
+          "text": "Changes Hunter to instead display Objectives within a ",
           "color": "$text"
         },
         {
@@ -912,11 +926,11 @@
     "Mana_Shield_Retribution": {
       "description": [
         {
-          "text": "Gives you a mana shield that ",
+          "text": "Gives you a shield that redirects a",
           "color": "$text"
         },
         {
-          "text": "redirects a percentage",
+          "text": " percentage",
           "color": "$absorb"
         },
         {
@@ -932,7 +946,7 @@
           "color": "$text"
         },
         {
-          "text": "After absorbing damage, your next attack's damage will be added to ",
+          "text": "After absorbing damage, ",
           "color": "$text"
         },
         {
@@ -940,7 +954,7 @@
           "color": "$damage"
         },
         {
-          "text": " and dealt to all mobs in a ",
+          "text": " will be added to your next attack's damage, and dealt to all mobs in a ",
           "color": "$text"
         },
         {
@@ -976,7 +990,7 @@
     "Mana_Shield_Implode": {
       "description": [
         {
-          "text": "Drains all of your mana dealing damage equal to a ",
+          "text": "Instantly drains all of your mana, dealing a ",
           "color": "$text"
         },
         {
@@ -984,7 +998,7 @@
           "color": "$damage"
         },
         {
-          "text": " of the mana drained to all enemies in a ",
+          "text": " of the mana drained as damage to all enemies in a ",
           "color": "$text"
         },
         {
@@ -1045,7 +1059,7 @@
     "Mega_Jump_Break_Down": {
       "description": [
         {
-          "text": "Changes Mega Jump to a Mega Dig! Instead of launching you up in the air it drills you downwards in to blocks, breaking them on the way.\n\n",
+          "text": "Changes Mega Jump to a Mega Dig! Instead of launching you up in the air it drills you downwards into blocks, breaking them on the way.\n\n",
           "color": "$text"
         },
         {
@@ -1117,7 +1131,7 @@
           "color": "$radius"
         },
         {
-          "text": " around yourself.\n",
+          "text": " around you.\n",
           "color": "$text"
         },
         {
@@ -1125,7 +1139,7 @@
           "color": "$name"
         },
         {
-          "text": "damage decreases the further away the target is hit in its radius.",
+          "text": "damage falls off the further away the target is.",
           "color": "$text"
         },
         {
@@ -1205,11 +1219,11 @@
           "color": "$text"
         },
         {
-          "text": "radius",
+          "text": "radius.\n",
           "color": "$radius"
         },
         {
-          "text": ". The mobs will stay frozen for a ",
+          "text": "The mobs will stay frozen for a ",
           "color": "$text"
         },
         {
@@ -1233,7 +1247,7 @@
           "color": "$chilled"
         },
         {
-          "text": " and take damage every 3 seconds\n\n",
+          "text": " and take damage every 3 seconds.\n\n",
           "color": "$text"
         },
         {
@@ -1258,7 +1272,7 @@
     "Rampage_Base": {
       "description": [
         {
-          "text": "Puts you in a state of rampage, giving you an additional ",
+          "text": "Puts you in a state of rampage, granting additional ",
           "color": "$text"
         },
         {
@@ -1266,7 +1280,7 @@
           "color": "$damage"
         },
         {
-          "text": " increase while active.\n\n",
+          "text": " while active.\n\n",
           "color": "$text"
         },
         {
@@ -1289,15 +1303,15 @@
     "Rampage_Chain": {
       "description": [
         {
-          "text": "Changes rampage to give your attacks a ",
+          "text": "Changes Rampage to instead cause your attacks to ",
           "color": "$text"
         },
         {
-          "text": "chaining effect",
+          "text": "chain ",
           "color": "$chains"
         },
         {
-          "text": ", hitting multiple mobs beyond the first, instead of increasing your damage while rampaging.\n\n",
+          "text": "to nearby mobs.\n\n",
           "color": "$text"
         },
         {
@@ -1320,15 +1334,15 @@
     "Rampage_Leech": {
       "description": [
         {
-          "text": "Changes rampage to give you ",
+          "text": "Changes Rampage to instead cause your attacks to ",
           "color": "$text"
         },
         {
-          "text": "life leech",
+          "text": "leech life ",
           "color": "$leech"
         },
         {
-          "text": " instead of increasing your damage while rampaging.\n\n",
+          "text": "from attacked mobs.\n\n",
           "color": "$text"
         },
         {
@@ -1363,19 +1377,19 @@
           "color": "$text"
         },
         {
-          "text": "active",
+          "text": "active,",
           "color": "$duration"
         },
         {
           "text": " knocking back",
-          "color": "$radius"
+          "color": "$knockback"
         },
         {
-          "text": " mobs in a radius",
+          "text": " mobs around you in a radius.\n",
           "color": "$text"
         },
         {
-          "text": ".\n\n",
+          "text": "The radius increases with fall distance.\n\n",
           "color": "$text"
         },
         {
@@ -1414,15 +1428,19 @@
           "color": "$text"
         },
         {
-          "text": "active.\n",
+          "text": "active.\n\n",
           "color": "$duration"
         },
         {
-          "text": "Chilling",
+          "text": "Additionally,",
+          "color": "$text"
+        },
+        {
+          "text": " chills ",
           "color": "$chilled"
         },
         {
-          "text": " and creating ",
+          "text": "affected mobs and creates ",
           "color": "$text"
         },
         {
@@ -1430,15 +1448,11 @@
           "color": "$maxGlacialPrison"
         },
         {
-          "text": "to mobs in a radius.\n",
+          "text": "in a radius around you.\n",
           "color": "$text"
         },
         {
-          "text": "The radius is affected by fall distance.",
-          "color": "$text"
-        },
-        {
-          "text": ".\n\n",
+          "text": "The radius increases with fall distance.\n\n",
           "color": "$text"
         },
         {
@@ -1479,11 +1493,11 @@
           "color": "$text"
         },
         {
-          "text": "active ",
+          "text": "active.\n\n",
           "color": "$duration"
         },
         {
-          "text": "dealing damage based off ",
+          "text": "Additionally, deals damage based on ",
           "color": "$text"
         },
         {
@@ -1491,11 +1505,11 @@
           "color": "$ability_power"
         },
         {
-          "text": " to nearby mobs in a radius\nThe radius is increased with your fall distance.",
+          "text": " to nearby mobs in a radius.\nThe radius increases with fall distance.",
           "color": "$text"
         },
         {
-          "text": ".\n\n",
+          "text": "\n\n",
           "color": "$text"
         },
         {
@@ -1554,15 +1568,15 @@
     "Empower_Base": {
       "description": [
         {
-          "text": "Gives you an aura of ",
+          "text": "Gives you a ",
           "color": "$text"
         },
         {
-          "text": "movement speed",
+          "text": "movement speed ",
           "color": "$speed"
         },
         {
-          "text": ". Affecting you and other players within ",
+          "text": "aura, affecting you and other players within ",
           "color": "$text"
         },
         {
@@ -1570,7 +1584,7 @@
           "color": "$radius"
         },
         {
-          "text": "  while active\n\n\u25d0 Toggle Ability ",
+          "text": " while active.\n\n\u25d0 Toggle Ability ",
           "color": "$castType"
         }
       ],
@@ -1609,7 +1623,7 @@
           "color": "$duration"
         },
         {
-          "text": " while active\n\n",
+          "text": " while active.\n\n",
           "color": "$text"
         },
         {
@@ -1637,11 +1651,11 @@
     "Empower_Slowness_Aura": {
       "description": [
         {
-          "text": "Gives you an aura of entropy ",
+          "text": "Gives you an entropy aura,",
           "color": "$text"
         },
         {
-          "text": "slowing down",
+          "text": " slowing down",
           "color": "$slowness"
         },
         {
@@ -1653,7 +1667,7 @@
           "color": "$radius"
         },
         {
-          "text": " around you while active\n\n",
+          "text": " around you while active.\n\n",
           "color": "$text"
         },
         {
@@ -1677,23 +1691,23 @@
     "Taunt_Base": {
       "description": [
         {
-          "text": "Taunts mobs around you in a ",
+          "text": "Taunts mobs in a ",
           "color": "$text"
         },
         {
-          "text": "radius",
+          "text": "radius ",
           "color": "$radius"
         },
         {
-          "text": ", angering them towards you, and making them ",
+          "text": "around you, forcing them to attack you, and making them ",
           "color": "$text"
         },
         {
-          "text": "vulnerable",
+          "text": "vulnerable ",
           "color": "$vulnerable"
         },
         {
-          "text": " for a ",
+          "text": "for a ",
           "color": "$text"
         },
         {
@@ -1713,7 +1727,7 @@
           "color": "$vulnerable"
         },
         {
-          "text": " increases damage taken to that mob by ",
+          "text": " increases damage taken by that mob by ",
           "color": "$text"
         },
         {
@@ -1744,15 +1758,15 @@
     "Taunt_Repel": {
       "description": [
         {
-          "text": "Instead of taunting mobs around you, they are now feared by you in a ",
+          "text": "Changes Taunt to instead cast Fear on mobs within a ",
           "color": "$text"
         },
         {
-          "text": "radius",
+          "text": "radius ",
           "color": "$radius"
         },
         {
-          "text": ". A feared mob will get ",
+          "text": "around you. A feared mob will get ",
           "color": "$text"
         },
         {
@@ -1966,7 +1980,7 @@
           "color": "$delay"
         },
         {
-          "text": ". These hits applies any on-hit effects you may have, with the exception of Lucky Hit",
+          "text": ". These hits apply any on-hit effects you may have, with the exception of Lucky Hit",
           "color": "$text"
         },
         {
@@ -2069,15 +2083,15 @@
     "Vein_Miner_Durability": {
       "description": [
         {
-          "text": "Changes Vein Miner to gain a chance of ignoring taking ",
+          "text": "Changes Vein Miner to grant ",
           "color": "$text"
         },
         {
-          "text": "durability damage",
+          "text": "Unbreaking",
           "color": "$unbreaking"
         },
         {
-          "text": " while using it to mine blocks. However, the amount of",
+          "text": " while using it to mine blocks.\nHowever, the amount of",
           "color": "$text"
         },
         {
@@ -2085,7 +2099,7 @@
           "color": "$blocks"
         },
         {
-          "text": " is lowered.\n\n",
+          "text": " is reduced.\n\n",
           "color": "$text"
         },
         {
@@ -2151,7 +2165,7 @@
           "color": "$chance"
         },
         {
-          "text": " with the exception of vault ores. However the amount of",
+          "text": " with the exception of vault ores.\nHowever the amount of",
           "color": "$text"
         },
         {
@@ -2159,7 +2173,7 @@
           "color": "$blocks"
         },
         {
-          "text": " is lowered.\n\n",
+          "text": " is reduced.\n\n",
           "color": "$text"
         },
         {
@@ -2178,7 +2192,7 @@
     "Javelin_Base": {
       "description": [
         {
-          "text": "Summon a magical Javelin to hit your foes afar\n\n",
+          "text": "Summon a magical Javelin to hit your foes from afar.\n\n",
           "color": "$text"
         },
         {
@@ -2190,7 +2204,7 @@
           "color": "$damage"
         },
         {
-          "text": "based of your weapon damage and ",
+          "text": "based on your weapon damage and ",
           "color": "$text"
         },
         {
@@ -2198,7 +2212,7 @@
           "color": "$knockback"
         },
         {
-          "text": "on impact\n\n",
+          "text": "on impact.\n\n",
           "color": "$text"
         },
         {
@@ -2224,7 +2238,7 @@
     "Javelin_Piercing": {
       "description": [
         {
-          "text": "Summon a magical Javelin to hit your foes afar\n\n",
+          "text": "Summon a magical Javelin to hit your foes from afar.\n\n",
           "color": "$text"
         },
         {
@@ -2236,15 +2250,15 @@
           "color": "$damage"
         },
         {
-          "text": "based of your weapon damage and ",
+          "text": "based on your weapon damage and ",
           "color": "$text"
         },
         {
-          "text": "pierces an amount of mobs ",
+          "text": "pierces a number of mobs ",
           "color": "$piercing"
         },
         {
-          "text": "on impact\n\n",
+          "text": "on impact.\n\n",
           "color": "$text"
         },
         {
@@ -2270,7 +2284,7 @@
     "Javelin_Scatter": {
       "description": [
         {
-          "text": "Summon a magical Javelin to hit your foes afar\n\n",
+          "text": "Summon a magical Javelin to hit your foes from afar.\n\n",
           "color": "$text"
         },
         {
@@ -2282,19 +2296,19 @@
           "color": "$damage"
         },
         {
-          "text": "based of your weapon damage and ",
+          "text": "based on your weapon damage and ",
           "color": "$text"
         },
         {
-          "text": "scatters an amount of javelins ",
+          "text": "scatters a number of javelins ",
           "color": "$numberOfJavelins"
         },
         {
-          "text": "on impact ",
+          "text": "on impact, which ",
           "color": "$text"
         },
         {
-          "text": "bouncing several times\n\n",
+          "text": "bounce several times.\n\n",
           "color": "$numberOfBounces"
         },
         {
@@ -2322,7 +2336,7 @@
     "Javelin_Sight": {
       "description": [
         {
-          "text": "Summon a magical Javelin to hit your foes afar\n\n",
+          "text": "Summon a magical Javelin to hit your foes from afar.\n\n",
           "color": "$text"
         },
         {
@@ -2334,7 +2348,7 @@
           "color": "$damage"
         },
         {
-          "text": "based of your weapon damage and ",
+          "text": "based on your weapon damage and ",
           "color": "$text"
         },
         {
@@ -2342,7 +2356,7 @@
           "color": "$radius"
         },
         {
-          "text": "on impact, revealing chests and mobs\n\n",
+          "text": "on impact, revealing chests and mobs.\n\n",
           "color": "$text"
         },
         {
@@ -2372,11 +2386,11 @@
           "color": "$text"
         },
         {
-          "text": "Smite",
+          "text": "Smite ",
           "color": "$name"
         },
         {
-          "text": " will ",
+          "text": "will",
           "color": "$text"
         },
         {
@@ -2384,15 +2398,15 @@
           "color": "$damageInterval"
         },
         {
-          "text": " strike a mob within ",
+          "text": "strike a mob within ",
           "color": "$text"
         },
         {
-          "text": " range ",
+          "text": "range ",
           "color": "$radius"
         },
         {
-          "text": " dealing a percentage of your ",
+          "text": "dealing a percentage of your ",
           "color": "$text"
         },
         {
@@ -2500,23 +2514,23 @@
           "color": "$name"
         },
         {
-          "text": " will turn you in to a spark. Making any mob you physically touch get bolted for a percentage of your ",
+          "text": " will turn you into a spark. Any mob you physically touch will get bolted for a percentage of your ",
           "color": "$text"
         },
         {
-          "text": "ability power",
+          "text": "ability power.\n",
           "color": "$ability_power"
         },
         {
-          "text": " and gives you ",
+          "text": "Also increases the ",
           "color": "$text"
         },
         {
-          "text": "durability resistance",
+          "text": "durability ",
           "color": "$durabilityWearReduction"
         },
         {
-          "text": ". ",
+          "text": "of your gear while active. ",
           "color": "$text"
         },
         {
@@ -2557,11 +2571,11 @@
           "color": "$text"
         },
         {
-          "text": " chance to stun mobs",
+          "text": "chance to stun mobs",
           "color": "$chance"
         },
         {
-          "text": " when getting hit.",
+          "text": " when you are hit.",
           "color": "$text"
         },
         {
@@ -2591,27 +2605,27 @@
           "color": "$text"
         },
         {
-          "text": "Porcupine",
+          "text": "Porcupine ",
           "color": "$name"
         },
         {
-          "text": " will increase your",
+          "text": "will increase your ",
           "color": "$text"
         },
         {
-          "text": " thorns damage",
+          "text": "thorns damage ",
           "color": "$damage"
         },
         {
-          "text": " and give you ",
+          "text": "and increase the ",
           "color": "$text"
         },
         {
-          "text": " durability resistance",
+          "text": "durability ",
           "color": "$durabilityWearReduction"
         },
         {
-          "text": ".",
+          "text": "of your gear.",
           "color": "$text"
         },
         {
@@ -2659,7 +2673,7 @@
           "color": "$chains"
         },
         {
-          "text": "to hit additional targets. In addition ",
+          "text": "to hit additional targets.\n",
           "color": "$text"
         },
         {
@@ -2667,15 +2681,15 @@
           "color": "$name"
         },
         {
-          "text": " also gives you a ",
+          "text": " also increases the ",
           "color": "$text"
         },
         {
-          "text": "durability resistance",
+          "text": "durability ",
           "color": "$durabilityWearReduction"
         },
         {
-          "text": " while active.",
+          "text": "of your items while active.",
           "color": "$text"
         },
         {
@@ -2703,7 +2717,7 @@
     "Fireball_Base": {
       "description": [
         {
-          "text": "Summon a magical Fireball to hit your foes afar\n\n",
+          "text": "Summon a magical Fireball to hit your foes from afar.\n\n",
           "color": "$text"
         },
         {
@@ -2715,7 +2729,7 @@
           "color": "$ability_power"
         },
         {
-          "text": "based of your ability power.",
+          "text": "based on your ability power.",
           "color": "$text"
         },
         {
@@ -2757,7 +2771,7 @@
           "color": "$ability_power"
         },
         {
-          "text": "based of your ability power.\nAfter a ",
+          "text": "based on your ability power.\nAfter a ",
           "color": "$text"
         },
         {
@@ -2765,7 +2779,7 @@
           "color": "$duration"
         },
         {
-          "text": " of time, it explodes in a ",
+          "text": " of time, it explodes dealing its full damage in a ",
           "color": "$text"
         },
         {
@@ -2773,7 +2787,7 @@
           "color": "$radius"
         },
         {
-          "text": " dealing its full damage.",
+          "text": " around it.",
           "color": "$text"
         },
         {
@@ -2801,7 +2815,7 @@
     "Fireball_Fireshot": {
       "description": [
         {
-          "text": "Summon a small magical fireshot to hit mobs from afar\n\n",
+          "text": "Summon a small magical fireshot to hit mobs from afar.\n\n",
           "color": "$text"
         },
         {
@@ -2813,7 +2827,7 @@
           "color": "$ability_power"
         },
         {
-          "text": "based of your ",
+          "text": "based on your ",
           "color": "$text"
         },
         {
@@ -2825,11 +2839,11 @@
           "color": "$text"
         },
         {
-          "text": "on-hit effects ",
+          "text": "on-hit effects",
           "color": "$name"
         },
         {
-          "text": "from you.",
+          "text": ".",
           "color": "$text"
         },
         {
@@ -2852,7 +2866,7 @@
     "Storm_Arrow_Base": {
       "description": [
         {
-          "text": "Shoot an arrow that creates a storm above upon impact\n\n",
+          "text": "Shoot an arrow that creates a lightning storm above it upon impact.\n\n",
           "color": "$text"
         },
         {
@@ -2864,7 +2878,7 @@
           "color": "$ability_power"
         },
         {
-          "text": "based of your ability power. The storm cloud stays for a ",
+          "text": "based on your ability power. The storm cloud stays for a ",
           "color": "$text"
         },
         {
@@ -2872,16 +2886,16 @@
           "color": "$duration"
         },
         {
-          "text": " and will ",
+          "text": " and lightning will ",
           "color": "$text"
         },
         {
           "text": "strike",
-          "color": "$duration"
+          "color": "$text"
         },
         {
-          "text": " every so often.",
-          "color": "$text"
+          "text": " periodically.",
+          "color": "$damageInterval"
         },
         {
           "text": "\n\n\u2734 Cast Ability ",
@@ -2910,7 +2924,7 @@
     "Storm_Arrow_Blizzard": {
       "description": [
         {
-          "text": "Shoot an arrow that creates an ice storm above upon impact\n\n",
+          "text": "Shoot an arrow that creates an ice storm above it upon impact.\n\n",
           "color": "$text"
         },
         {
@@ -2919,7 +2933,7 @@
         },
         {
           "text": "duration.",
-          "color": "$slowDuration"
+          "color": "$chilled"
         },
         {
           "text": " Also has a ",
@@ -2927,18 +2941,18 @@
         },
         {
           "text": "chance",
-          "color": "$frostbiteChance"
+          "color": "$chance"
         },
         {
-          "text": " to frostbite the mob for a ",
+          "text": " to periodically frostbite the mob for a ",
           "color": "$text"
         },
         {
           "text": "duration",
-          "color": "$duration"
+          "color": "$chilled"
         },
         {
-          "text": " every so often.",
+          "text": ".",
           "color": "$text"
         },
         {
@@ -2976,27 +2990,27 @@
           "color": "$text"
         },
         {
-          "text": "Battle Cry stacks ",
+          "text": "Battle Cry stacks.\n",
           "color": "$maxStacks"
         },
         {
-          "text": "and release an ",
+          "text": "On your next direct on-hit attack, releases a ",
           "color": "$text"
         },
         {
-          "text": "amount ",
+          "text": "number ",
           "color": "$stacksUsedPerHit"
         },
         {
-          "text": "of stacks, giving you ",
+          "text": "of stacks as ",
           "color": "$text"
         },
         {
-          "text": "bonus attack damage ",
+          "text": "bonus physical attack damage ",
           "color": "$damage"
         },
         {
-          "text": "on your next direct on-hit attack.\nThe stacks will fizzle after a ",
+          "text": ".\nThe stacks will fizzle after a ",
           "color": "$text"
         },
         {
@@ -3040,19 +3054,19 @@
           "color": "$text"
         },
         {
-          "text": "Battle Cry stacks ",
+          "text": "Battle Cry stacks.\n",
           "color": "$maxStacks"
         },
         {
-          "text": "and release an ",
+          "text": "On your next direct on-hit attack, releases a ",
           "color": "$text"
         },
         {
-          "text": "amount ",
+          "text": "number ",
           "color": "$stacksUsedPerHit"
         },
         {
-          "text": "of stacks, adding ",
+          "text": "of stacks, adding a percentage of your ",
           "color": "$text"
         },
         {
@@ -3060,7 +3074,7 @@
           "color": "$abilityPowerPerStack"
         },
         {
-          "text": "as damage, on your next direct on-hit attack.\nThe stacks will fizzle after a ",
+          "text": "as damage.\nThe stacks will fizzle after a ",
           "color": "$text"
         },
         {
@@ -3104,15 +3118,15 @@
           "color": "$text"
         },
         {
-          "text": "Battle Cry stacks ",
+          "text": "Battle Cry stacks.\n",
           "color": "$maxStacks"
         },
         {
-          "text": "and release an ",
+          "text": "On your next direct on-hit attack, releases a ",
           "color": "$text"
         },
         {
-          "text": "amount ",
+          "text": "number ",
           "color": "$stacksUsedPerHit"
         },
         {
@@ -3120,11 +3134,11 @@
           "color": "$text"
         },
         {
-          "text": "bonus Lucky Hit chance ",
+          "text": "bonus Lucky Hit chance.",
           "color": "$luckyHit"
         },
         {
-          "text": "on your next direct on-hit attack.\nThe stacks will fizzle after a ",
+          "text": "\nThe stacks will fizzle after a ",
           "color": "$text"
         },
         {
@@ -3205,28 +3219,20 @@
     "Ice_Bolt_Blast": {
       "description": [
         {
-          "text": "Summon a large Glacial Blast, that on impact explodes, ",
+          "text": "Summon a large Glacial Blast that explodes on impact, ",
           "color": "$text"
         },
         {
-          "text": "chills",
+          "text": "chilling",
           "color": "$chilled"
         },
         {
-          "text": " and potentially ",
+          "text": " mobs in its radius and potentially trapping them in a ",
           "color": "$text"
         },
         {
-          "text": "glacial imprisons",
+          "text": "glacial prison",
           "color": "$maxGlacialPrison"
-        },
-        {
-          "text": " mobs in its ",
-          "color": "$text"
-        },
-        {
-          "text": "radius",
-          "color": "$radius"
         },
         {
           "text": ", for a ",
@@ -3237,7 +3243,7 @@
           "color": "$duration"
         },
         {
-          "text": " of time ",
+          "text": " of time.",
           "color": "$text"
         },
         {
