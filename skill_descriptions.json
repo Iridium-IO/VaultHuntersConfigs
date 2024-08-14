@@ -112,7 +112,7 @@
       {
         "color": "#FFF4CF",
         "italic": true,
-        "text": "\n\nRequires a Power Mod to be unlocked."
+        "text": "\n\nRequires a source of Power to be usable."
       }
     ],
     "Arcana": [
@@ -1364,7 +1364,7 @@
       {
         "color": "#FFF4CF",
         "italic": true,
-        "text": "\n\nRequires a Power Mod to be unlocked."
+        "text": "\n\nRequires a source of Power to be usable."
       }
     ],
     "Cagerium": [
@@ -4211,7 +4211,7 @@
       {
         "color": "#FFF4CF",
         "italic": true,
-        "text": "\nRequires a Power Mod to be unlocked."
+        "text": "\nRequires a source of Power to be usable."
       }
     ],
     "Dimensional Storage": [
@@ -8561,7 +8561,7 @@
       {
         "color": "#FFF4CF",
         "italic": true,
-        "text": "\n\nRequires a Power Mod to be unlocked."
+        "text": "\n\nRequires a source of Power to be usable."
       }
     ],
     "Mixtures": [
@@ -10616,7 +10616,7 @@
       {
         "color": "#FFF4CF",
         "italic": true,
-        "text": "\n\nRequires a Power Mod to be unlocked."
+        "text": "\n\nRequires a source of Power to be usable."
       }
     ],
     "Regeneration": [
