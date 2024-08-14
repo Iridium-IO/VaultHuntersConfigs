@@ -54,14 +54,14 @@
     ],
     "Angel": [
       {
-        "text": "Grants the ability to craft "
+        "text": "Unlocks craftable "
       },
       {
         "color": "#FF2EFF",
-        "text": "Angel Block"
+        "text": "Angel Blocks"
       },
       {
-        "text": " and have them grant you Creative Flight. Angel blocks can not be placed inside vaults, and have a radius of 64 blocks per block."
+        "text": ", which grant Creative Flight within a 64 block radius around them.\n\nAngel blocks cannot be placed inside vaults."
       }
     ],
     "Applied Energistics": [
@@ -83,14 +83,14 @@
         "text": "Applied Energistics "
       },
       {
-        "text": "mod!\n\nThis mod lets you store your items on digital data disks, like harddrives. It has a digital search terminal. "
+        "text": "mod!\n\nThis mod lets you store your items on digital storage disks, with access via a digital search terminal. "
       },
       {
         "color": "yellow",
         "text": "Applied Energistics"
       },
       {
-        "text": " is a bit more complex than it's similarity, Refined Storage, but has less limitations end game. Auto Crafting is possible but gated behind "
+        "text": " is a bit more complex than its counterpart, Refined Storage, but has fewer limitations in the end game. Auto Crafting is possible but gated behind "
       },
       {
         "color": "aqua",
@@ -108,6 +108,11 @@
       },
       {
         "text": "!"
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires a Power Mod to be unlocked."
       }
     ],
     "Arcana": [
@@ -119,14 +124,21 @@
         "text": "+20% Mana Regeneration"
       },
       {
-        "text": " when killing a mob. This effect can "
+        "text": " when killing a mob.\n\nThis effect can "
       },
       {
         "color": "#ffeb07",
         "text": "stack"
       },
       {
-        "text": " and lasts for a duration of time.\n1 "
+        "text": " and each stack lasts for a "
+      },
+      {
+        "color": "#7024ac",
+        "text": "duration "
+      },
+      {
+        "text": "of time.\n\n1 "
       },
       {
         "color": "#ffeb07",
@@ -140,7 +152,7 @@
         "text": "4 seconds"
       },
       {
-        "text": " wear-off time\n2 "
+        "text": " duration\n2 "
       },
       {
         "color": "#ffeb07",
@@ -154,7 +166,7 @@
         "text": "6 seconds"
       },
       {
-        "text": " wear-off time\n3 "
+        "text": " duration\n3 "
       },
       {
         "color": "#ffeb07",
@@ -168,7 +180,7 @@
         "text": "8 seconds"
       },
       {
-        "text": " wear-off time\n4 "
+        "text": " duration\n4 "
       },
       {
         "color": "#ffeb07",
@@ -182,7 +194,7 @@
         "text": "10 seconds"
       },
       {
-        "text": " wear-off time"
+        "text": " duration"
       }
     ],
     "Arthropod_Mastery": [
@@ -363,7 +375,12 @@
         "text": "autocrafting"
       },
       {
-        "text": " from various mods!\n\nWith Automatic Genius you can automate one of the two core concept of the game; crafting. Behold the power of full automation!"
+        "text": " from various mods!\n\nWith Automatic Genius you can automate one of the two core concepts of the game; crafting. Behold the power of full automation!"
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires every other mod to be unlocked!"
       }
     ],
     "Backpacks": [
@@ -376,6 +393,11 @@
       },
       {
         "text": ", which offers more storage space and two more upgrade slots than Belts."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Loot Belts to be unlocked."
       }
     ],
     "Backpacks!": {
@@ -589,6 +611,11 @@
       },
       {
         "text": ", which offers more storage space than Double Pouches."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Double Pouches to be unlocked."
       }
     ],
     "Berserking": [
@@ -645,6 +672,11 @@
       },
       {
         "text": ", which offers more storage space and two more upgrade slots than Backpacks."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Backpacks to be unlocked."
       }
     ],
     "Blacksmith": [
@@ -712,14 +744,21 @@
         "text": "+2% Movement Speed"
       },
       {
-        "text": " when killing a mob. This effect can "
+        "text": " when killing a mob.\n\nThis effect can "
       },
       {
         "color": "#ffeb07",
         "text": "stack"
       },
       {
-        "text": " and lasts for a duration of time.\n1 "
+        "text": " and each stack lasts for a "
+      },
+      {
+        "color": "#7024ac",
+        "text": "duration "
+      },
+      {
+        "text": "of time.\n\n1 "
       },
       {
         "color": "#ffeb07",
@@ -733,7 +772,7 @@
         "text": "4 seconds"
       },
       {
-        "text": " wear-off time\n2 "
+        "text": " duration\n2 "
       },
       {
         "color": "#ffeb07",
@@ -747,7 +786,7 @@
         "text": "6 seconds"
       },
       {
-        "text": " wear-off time\n3 "
+        "text": " duration\n3 "
       },
       {
         "color": "#ffeb07",
@@ -761,7 +800,7 @@
         "text": "8 seconds"
       },
       {
-        "text": " wear-off time\n4 "
+        "text": " duration\n4 "
       },
       {
         "color": "#ffeb07",
@@ -775,23 +814,30 @@
         "text": "10 seconds"
       },
       {
-        "text": " wear-off time"
+        "text": " duration"
       }
     ],
     "Blight": [
       {
-        "text": "Apply "
+        "text": "Hitting a mob afflicted by "
+      },
+      {
+        "color": "#6fe95a",
+        "text": "Poison "
+      },
+      {
+        "text": "will apply "
       },
       {
         "color": "#AFB477",
-        "text": "Weakness"
+        "text": "Weakness "
       },
       {
-        "text": " to your targets while hitting them, lowering their "
+        "text": "to them, lowering their "
       },
       {
         "color": "#C23627",
-        "text": "damage"
+        "text": "damage output"
       },
       {
         "text": " for a "
@@ -801,11 +847,7 @@
         "text": "duration"
       },
       {
-        "text": " of time, if they are affected by "
-      },
-      {
-        "color": "#6fe95a",
-        "text": "Poison"
+        "text": " of time"
       },
       {
         "text": ".\n\n1 "
@@ -815,7 +857,7 @@
         "text": "-50%"
       },
       {
-        "text": " - "
+        "text": " for "
       },
       {
         "color": "#7024AC",
@@ -829,7 +871,7 @@
         "text": "-60%"
       },
       {
-        "text": " - "
+        "text": " for "
       },
       {
         "color": "#7024AC",
@@ -843,7 +885,7 @@
         "text": "-70%"
       },
       {
-        "text": " - "
+        "text": " for "
       },
       {
         "color": "#7024AC",
@@ -857,7 +899,7 @@
         "text": "-80%"
       },
       {
-        "text": " - "
+        "text": " for "
       },
       {
         "color": "#7024AC",
@@ -883,14 +925,14 @@
         "text": "chance"
       },
       {
-        "text": " of causing a "
+        "text": " to cast a "
       },
       {
         "color": "#23D2BB",
         "text": "Frost Nova"
       },
       {
-        "text": " to be cast around the target. \nThe Frost Nova scales in "
+        "text": " around the target. \nThe Frost Nova scales in "
       },
       {
         "color": "#c1579d",
@@ -984,14 +1026,14 @@
         "text": "Botania "
       },
       {
-        "text": "mod!\n\nBotania is a high tech mod that is based around it's own energy mana (not to be confused with Vault Mana). It can help you build advanced redstone contraptions, duplicate items and much more, however, "
+        "text": "mod!\n\nBotania is a high-tech mod that is based around it's own energy mana (not to be confused with Vault Mana). It can help you build advanced redstone contraptions, duplicate items and much more.\n\nHowever, "
       },
       {
         "color": "gold",
         "text": "Botania has been limited"
       },
       {
-        "text": " in Vault Hunters when it comes to player enhancing items, all of which we have disabled."
+        "text": " in Vault Hunters when it comes to player-enhancing items, all of which we have disabled."
       },
       {
         "text": "\n\nAdds rewards to "
@@ -1017,6 +1059,11 @@
       },
       {
         "text": "\n\nThe Flux Field enables you to turn mana into RF to be used in other mods, like Mekanism etc."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Botania to be unlocked."
       }
     ],
     "Botany Pots": [
@@ -1038,7 +1085,7 @@
         "text": "Botany Pots"
       },
       {
-        "text": " mod!\n\nThese pots can automate any crop in the game very easily by growing them in tiny pots."
+        "text": " mod!\n\nAutomate any crop in the game very easily by growing them in tiny pots."
       }
     ],
     "Bountiful_Harvest": [
@@ -1050,7 +1097,7 @@
         "text": "increased item quantity"
       },
       {
-        "text": " while being below "
+        "text": " while below "
       },
       {
         "color": "#7DF587",
@@ -1090,42 +1137,42 @@
     ],
     "Bounty_Hunter": [
       {
-        "text": "Become a master at Bounty Hunting.\n\n1\nReduce the "
+        "text": "Become a master at Bounty Hunting.\n\n1 "
       },
       {
         "color": "#FCF5C5",
-        "text": "bounty wait period"
+        "text": "Bounty cooldown"
       },
       {
-        "text": " to"
+        "text": " is reduced to"
       },
       {
         "color": "#CBE6FE",
         "text": " 30 minutes"
       },
       {
-        "text": ".\n\n2\nReduce the "
+        "text": ".\n\n2 "
       },
       {
         "color": "#FCF5C5",
-        "text": "abandon penalty"
+        "text": "Bounty abandon penalty"
       },
       {
-        "text": " to"
+        "text": " is reduced to"
       },
       {
         "color": "#CBE6FE",
         "text": " 30 minutes"
       },
       {
-        "text": ".\n\n3\nHave "
+        "text": ".\n\n3 "
       },
       {
         "color": "#FFEB07",
-        "text": "2 active bounties"
+        "text": "2 bounties"
       },
       {
-        "text": " at any given time."
+        "text": " can be active at any given time."
       }
     ],
     "Breakable": [
@@ -1267,7 +1314,12 @@
         "text": "Vault Brews"
       },
       {
-        "text": "\n\nVault Brews are upgraded Mixtures, and the effect of its modifier is even further increased"
+        "text": "\n\nVault Brews are upgraded Mixtures, and the effect of its modifier is enhanced even further."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Vault Mixtures to be unlocked."
       }
     ],
     "Building Gadgets": [
@@ -1276,11 +1328,11 @@
       },
       {
         "color": "red",
-        "text": "⚠ "
+        "text": "\u26A0 "
       },
       {
         "color": "dark_red",
-        "text": "Disabled In Vaults!\n"
+        "text": "Disabled In Vaults!\n\n"
       },
       {
         "text": ""
@@ -1300,21 +1352,19 @@
         "text": "Building Gadgets & Enercell"
       },
       {
-        "text": " mods!\n\nBuilding gadgets is a mega fun mod that allows you to place hundreds of blocks very quickly! A must have for any mega base builder. Building Gadgets does require "
+        "text": " mods!\n\nBuilding Gadgets is a mega fun mod that allows you to place hundreds of blocks very quickly!\nA must have for any mega base builder, Building Gadgets does require "
       },
       {
         "color": "aqua",
         "text": "Forge Energy (FE)"
       },
       {
-        "text": " to operate, and can be charged through Enercell (which are also included in this unlock) but make sure you have access to "
+        "text": " to operate, and can be charged through Enercells (which are also included in this unlock)."
       },
       {
-        "color": "gold",
-        "text": "power"
-      },
-      {
-        "text": " first!"
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires a Power Mod to be unlocked."
       }
     ],
     "Cagerium": [
@@ -2584,7 +2634,7 @@
         "text": "Create "
       },
       {
-        "text": "mod!\n\nThis mod allows you to farm and process resources. It does not require classic modded power (FE), but instead uses rotational force through water or heat sources to generate energy for itself."
+        "text": "mod!\n\nThis mod allows you to farm and process resources. It does not require classic modded power (FE), but instead utilises its own Rotational Force energy, generated through water or heat sources."
       },
       {
         "text": "\n\nAdds rewards to "
@@ -2696,7 +2746,7 @@
         "text": "Dark Utilities "
       },
       {
-        "text": "mod!\n\nThis mod provides you with the ultimate utilities for mob farming and moving entities around using conveyour belts."
+        "text": "mod!\n\nThis mod provides you with the ultimate utilities for mob farming and moving entities around using conveyor belts."
       }
     ],
     "Dash": [
@@ -3998,11 +4048,11 @@
         "text": "to a "
       },
       {
-        "color": "#19A6E4",
+        "color": "#FFFB81",
         "text": "stunned"
       },
       {
-        "text": " mob per hit.\n\n1 "
+        "text": " mob on hit.\n\n1 "
       },
       {
         "color": "#C23627",
@@ -4130,11 +4180,11 @@
       },
       {
         "color": "red",
-        "text": "⚠ "
+        "text": "\u26A0  "
       },
       {
         "color": "dark_red",
-        "text": "Disabled In Vaults!\n"
+        "text": "Disabled In Vaults!\n\n"
       },
       {
         "text": "Unlocks the "
@@ -4144,7 +4194,7 @@
         "text": "Digital Miner"
       },
       {
-        "text": " from Mekanism!\n\nAutomatic Mining at it's finest. Place this guy down, select your filters and upgrade modules, provide it with "
+        "text": " from Mekanism!\n\nAutomatic Mining at its finest. Place this guy down, select your filters and upgrade modules, provide it with "
       },
       {
         "color": "aqua",
@@ -4152,6 +4202,16 @@
       },
       {
         "text": " and watch it dig out all your treasures!"
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Mekanism to be unlocked."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\nRequires a Power Mod to be unlocked."
       }
     ],
     "Dimensional Storage": [
@@ -4217,7 +4277,7 @@
         "text": "Drawers "
       },
       {
-        "text": "mod!\n\nThis mod can store multiple (thousands) of stacks of one item in one block, and drawers can be chained together to create an array of storage."
+        "text": "mod!\n\nDrawers can store massive numbers of an item in one block, and drawers can be chained together to create an array of storage."
       },
       {
         "text": "\n\nAdds rewards to "
@@ -4283,7 +4343,7 @@
         "text": "Easy Piglins "
       },
       {
-        "text": "mod!\n\nThis mod turns piglin bartering in to a one block solution! Simply pick up a piglin by shift+right-clicking them, and put them in their box. Provide them with gold and they will output their trades in the inventory of the block. It doesn't get easier!"
+        "text": "mod!\n\nThis mod turns piglin bartering into a one block solution! Simply pick up a piglin by shift + right-clicking them, and put them in their box. Provide them with gold and they will output their trades in the inventory of the block. It doesn't get easier!"
       }
     ],
     "Easy Villagers": [
@@ -4305,7 +4365,7 @@
         "text": "Easy Villagers "
       },
       {
-        "text": "mod!\n\nThis mod allows you to store, and interact, with villagers in block form, making it easy and fun to set up trading halls. It can also be used to farm resources with villagers, including iron."
+        "text": "mod!\n\nThis mod allows you to store and interact with villagers in block form, making it easy and fun to set up trading halls. It can also be used to farm resources with villagers, including iron."
       },
       {
         "text": "\n\nAdds rewards to "
@@ -4327,7 +4387,7 @@
         "text": "Elevators "
       },
       {
-        "text": "mod!\n\nThis mod provides you with ways of travelling vertically. The basic Elevators, when placed vertically from one another within a certain distance gives you the ability to SHIFT / JUMP on them to go DOWN / UP."
+        "text": "mod!\n\nThis mod provides you with ways to travel vertically.\n\nWhile standing on an Elevator block, jumping will cause you to ascend to the next Elevator block, and crouching will cause you to descend.\nElevator blocks have a limited range."
       }
     ],
     "Elvish": {
@@ -4911,14 +4971,21 @@
         "text": "+2.5% Attack Speed"
       },
       {
-        "text": " when killing a mob. This effect can "
+        "text": " when killing a mob.\n\nThis effect can "
       },
       {
         "color": "#ffeb07",
         "text": "stack"
       },
       {
-        "text": " and lasts for a duration of time.\n1 "
+        "text": " and each stack lasts for a "
+      },
+      {
+        "color": "#7024ac",
+        "text": "duration "
+      },
+      {
+        "text": "of time.\n\n1 "
       },
       {
         "color": "#ffeb07",
@@ -4932,7 +4999,7 @@
         "text": "4 seconds"
       },
       {
-        "text": " wear-off time\n2 "
+        "text": " duration\n2 "
       },
       {
         "color": "#ffeb07",
@@ -4946,7 +5013,7 @@
         "text": "6 seconds"
       },
       {
-        "text": " wear-off time\n3 "
+        "text": " duration\n3 "
       },
       {
         "color": "#ffeb07",
@@ -4960,7 +5027,7 @@
         "text": "8 seconds"
       },
       {
-        "text": " wear-off time\n4 "
+        "text": " duration\n4 "
       },
       {
         "color": "#ffeb07",
@@ -4974,7 +5041,7 @@
         "text": "10 seconds"
       },
       {
-        "text": " wear-off time"
+        "text": " duration"
       }
     ],
     "Frostbite": [
@@ -4997,7 +5064,7 @@
       },
       {
         "color": "#23D2BB",
-        "text": "Glacial Imprisoned"
+        "text": "Frostbitten"
       },
       {
         "text": " for "
@@ -6817,14 +6884,14 @@
     ],
     "Hunters_Instinct": [
       {
-        "text": "Killing a mob grants a small chance of having their death cause your "
+        "text": "Killing a mob grants a small chance to trigger your "
       },
       {
         "color": "#FCF5C5",
         "text": "Hunter senses"
       },
       {
-        "text": " to trigger, revealing all POI's in a radius around the killed mob. \n\nThis talent requires a level in "
+        "text": ", revealing all POI's in a radius around the killed mob. \n\nThis talent requires a level in "
       },
       {
         "color": "#FCF5C5",
@@ -6904,14 +6971,14 @@
     ],
     "Infuser": [
       {
-        "text": "When applying a normal catalyst to a crystal, there is a "
+        "text": "When applying a normal catalyst to a crystal, grants a "
       },
       {
         "color": "#FFEB07",
         "text": "chance"
       },
       {
-        "text": " to not apply a negative modifier.\n\n1 "
+        "text": " to avoid applying negative modifiers.\n\n1 "
       },
       {
         "color": "#FFEB07",
@@ -6941,7 +7008,7 @@
         "text": "Ability Power"
       },
       {
-        "text": "\n\n1 "
+        "text": ".\n\n1 "
       },
       {
         "color": "#FF00CB",
@@ -6988,7 +7055,7 @@
         "text": "Iron Furnaces "
       },
       {
-        "text": "mod!\n\nThis mod provides you with upgrades furnaces, making your smelting processing much quicker."
+        "text": "mod!\n\nThis mod provides you with upgraded furnaces, making your smelting much quicker."
       }
     ],
     "Iron Generators": [
@@ -7007,7 +7074,7 @@
         "text": "Forge Energy (FE)"
       },
       {
-        "text": " that is required by other mods to run. While Iron Generators is fairly basic, it can certainly be the best choice for early to mid game power generation!"
+        "text": " that is required by other mods to run. While Iron Generators is fairly basic, it can certainly be the best choice for early to mid game power generation!\n\nNote: The base Iron Generator is already unlocked and does not require this Research to be used."
       }
     ],
     "Javelin_Conduct": [
@@ -7244,21 +7311,21 @@
         "text": "cut Jewels"
       },
       {
-        "text": " without affecting their grade.\n\n1. "
+        "text": " without affecting their grade.\n\n1 "
       },
       {
         "color": "yellow",
         "text": "1 Cut"
       },
       {
-        "text": "\n2. "
+        "text": "\n2 "
       },
       {
         "color": "yellow",
         "text": "2 Cuts"
       },
       {
-        "text": "\n3. "
+        "text": "\n3 "
       },
       {
         "color": "yellow",
@@ -7294,17 +7361,17 @@
         "text": "Junk Identifier"
       },
       {
-        "text": "!\n\nThis controller allows you to specify 9 items by default that will be automatically deleted on pickup inside a vault. The Junk Controller can also be upgraded, although expensively, to handle up to a stunning 2052 items!"
+        "text": "!\n\nThe Junk Controller allows you to specify 9 items by default that will automatically be deleted on pickup inside a vault. The Junk Controller can also be upgraded - albeit expensively - to handle up to a stunning 2052 items!"
       },
       {
-        "text": " Must carry "
+        "text": "\nYou must carry the "
       },
       {
         "color": "aqua",
-        "text": "junk identifier"
+        "text": "Junk Identifier"
       },
       {
-        "text": " on you to make it work."
+        "text": " with you to make it work."
       }
     ],
     "Laser Mining": [
@@ -7393,10 +7460,10 @@
       },
       {
         "color": "#CF0000",
-        "text": "leech back part of your health"
+        "text": "leech back a portion of your health"
       },
       {
-        "text": " with your hit, as long as your hit deals the same amount of damage, percentage wise, to the target's total health.\n\n1 "
+        "text": " with each hit, provided your hit deals at least the same percentage of damage to the target's total health.\n\n1 "
       },
       {
         "color": "#CF0000",
@@ -7487,14 +7554,21 @@
         "text": "+1% Lucky Hit Chance"
       },
       {
-        "text": " when killing a mob. This effect can "
+        "text": " when killing a mob.\n\nThis effect can "
       },
       {
         "color": "#ffeb07",
         "text": "stack"
       },
       {
-        "text": " and lasts for a duration of time.\n\n1 "
+        "text": " and each stack lasts for a "
+      },
+      {
+        "color": "#7024ac",
+        "text": "duration "
+      },
+      {
+        "text": "of time.\n\n1 "
       },
       {
         "color": "#ffeb07",
@@ -7508,7 +7582,7 @@
         "text": "4 seconds"
       },
       {
-        "text": " wear-off time\n2 "
+        "text": " duration\n2 "
       },
       {
         "color": "#ffeb07",
@@ -7522,7 +7596,7 @@
         "text": "6 seconds"
       },
       {
-        "text": " wear-off time\n3 "
+        "text": " duration\n3 "
       },
       {
         "color": "#ffeb07",
@@ -7536,7 +7610,7 @@
         "text": "8 seconds"
       },
       {
-        "text": " wear-off time\n4 "
+        "text": " duration\n4 "
       },
       {
         "color": "#ffeb07",
@@ -7550,7 +7624,7 @@
         "text": "10 seconds"
       },
       {
-        "text": " wear-off time"
+        "text": " duration"
       }
     ],
     "Mana_Steal": [
@@ -8309,7 +8383,7 @@
         "text": "Mekanism "
       },
       {
-        "text": "mod!\n\nMekanism is a high tech mega mod! It provides you with ore processing, making you able to quintuple the outcome of a raw ore, super fast smelters and crushers and much more. Some features of Mekanism, such as the "
+        "text": "mod!\n\nMekanism is a high-tech mega mod! It provides you with ore processing (quintupling the products of raw ores), super fast smelters and crushers, and much more. \n\nSome features of Mekanism, such as the "
       },
       {
         "color": "gold",
@@ -8323,7 +8397,7 @@
         "text": "Meka Suit"
       },
       {
-        "text": " has been "
+        "text": " have been "
       },
       {
         "color": "gold",
@@ -8387,6 +8461,11 @@
       },
       {
         "text": "!"
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Mekanism to be unlocked."
       }
     ],
     "Mekanism QIO": [
@@ -8398,7 +8477,12 @@
         "text": "Mekanism QIO"
       },
       {
-        "text": " from Mekanism!\n\nThis part of Mekanism is a full blown storage system, with massive digital storage disks, powerful and intelligent item transfer and highly customisable crafting utilities Mekanism QIO is a beast of any storage systems."
+        "text": " from Mekanism!\n\nThis part of Mekanism is a full-blown storage system, with massive digital storage disks, powerful and intelligent item transfer capabilities, and highly customisable crafting utilities. Mekanism QIO is a beast amongst storage systems."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Mekanism to be unlocked."
       }
     ],
     "Methodical": [
@@ -8451,11 +8535,11 @@
       },
       {
         "color": "red",
-        "text": "⚠ "
+        "text": "\u26A0 "
       },
       {
         "color": "dark_red",
-        "text": "Disabled In Vaults!\n"
+        "text": "Disabled In Vaults!\n\n"
       },
       {
         "text": "Unlocks the "
@@ -8473,6 +8557,11 @@
       },
       {
         "text": " powered mod."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires a Power Mod to be unlocked."
       }
     ],
     "Mixtures": [
@@ -8484,7 +8573,12 @@
         "text": "Vault Mixtures"
       },
       {
-        "text": "\n\nVault Mixtures are upgraded Potions, and the effect of its modifier is enhanced"
+        "text": "\n\nVault Mixtures are upgraded Potions, enhancing the effect of its modifier."
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Vault Potions to be unlocked."
       }
     ],
     "Mob Spawners": [
@@ -8721,7 +8815,7 @@
         "text": "Killing a "
       },
       {
-        "color": "#19A6E4",
+        "color": "#FFFB81",
         "text": "stunned"
       },
       {
@@ -8732,7 +8826,7 @@
         "text": "chance"
       },
       {
-        "text": " of causing an explosive reaction, casting a Nova of your level around the killed mob.\n\n"
+        "text": " to cause an explosive reaction, casting a Nova of your level around the killed mob.\n\n"
       },
       {
         "italic": true,
@@ -8839,22 +8933,15 @@
       },
       {
         "color": "yellow",
-        "text": "Phytogenic Insulator"
+        "text": "Phytogenic Insolator"
       },
       {
-        "text": " from Thermal Expansion!\n\nThis is not a full mod unlock and requires you to also unlock "
-      },
-      {
-        "color": "aqua",
-        "text": "Thermal Expansion."
-      },
-      {
-        "text": "\nThe Phytogenic Insulator can duplicate/generate a lot of farmable items for you using power (FE).\n\n"
+        "text": " from Thermal Expansion!\n\nThe Phytogenic Insolator can duplicate/generate a lot of farmable items for you using power (FE)."
       },
       {
         "color": "#FFF4CF",
         "italic": true,
-        "text": "Note, this mod requires infrastructure from Thermal Expansion."
+        "text": "\n\nRequires Thermal Expansion to be unlocked."
       }
     ],
     "Piper": [
@@ -8878,7 +8965,7 @@
         "text": "Pipez "
       },
       {
-        "text": "mod!\n\nTransfering items around has never been easier! Pipez is the perfect entry point to any basic automation with item transfers, perfect for your farms or your generators!"
+        "text": "mod!\n\nTransfering items around has never been easier! Pipez is the perfect entry point to any basic automation with item transfers, perfect for your farms or generators!"
       }
     ],
     "Plastic Technician": {
@@ -8893,7 +8980,7 @@
         "text": "Vault Potions"
       },
       {
-        "text": "\n\nVault Potions are upgraded Vials, and they can hold one modifier"
+        "text": "\n\nVault Potions are upgraded Vials, and they can hold one modifier."
       }
     ],
     "Pouches": [
@@ -9028,7 +9115,7 @@
         "text": "increased area of effect"
       },
       {
-        "text": " while being above "
+        "text": " while above "
       },
       {
         "color": "#7DF587",
@@ -9168,7 +9255,7 @@
         "text": "extra damage"
       },
       {
-        "text": " based on the amount of "
+        "text": " based on the number of "
       },
       {
         "color": "#343434",
@@ -10500,14 +10587,14 @@
         "text": "Refined Storage "
       },
       {
-        "text": "mod!\n\nThis mod lets you store your items on digital data disks, like harddrives. It has a digital search terminal. "
+        "text": "mod!\n\nThis mod lets you store your items on digital storage disks, with access via a digital search terminal. "
       },
       {
         "color": "yellow",
         "text": "Refined Storage"
       },
       {
-        "text": " is known for it's simplicity when it comes to digital networking but have some limiting factors because of it. Auto Crafting is possible but gated behind "
+        "text": " is known for its simplicity when it comes to digital networking but has some limiting factors because of it. Auto Crafting is possible but gated behind "
       },
       {
         "color": "aqua",
@@ -10525,6 +10612,11 @@
       },
       {
         "text": "!"
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires a Power Mod to be unlocked."
       }
     ],
     "Regeneration": [
@@ -10688,7 +10780,7 @@
         "text": "SNAD "
       },
       {
-        "text": "mod!\n\nSnad is a block of sand with special powers that increases crop speed of the crops (Sugar Cane / Cactus) placed on top of it automatically."
+        "text": "mod!\n\nSnad is a block of sand with special powers that automatically increases the growth speed of Sugar Cane and Cactus planted on top of it."
       }
     ],
     "Safety First": {
@@ -10750,7 +10842,7 @@
         "text": "Simple Storage"
       },
       {
-        "text": " Networks mod.\n\nSimple Storage Networks, is a mod that lets you connect up several inventories and browse their content from a central interface digitally, with a search function.\n\nNote, because of performance issues we have disabled more advanced features of this mod, such as Crafting Interface, Export/Import capabilities and Wireless capabilities."
+        "text": " Networks mod.\n\nSimple Storage Networks is a mod that lets you connect several inventories and browse their contents digitally from a central interface with a search function.\n\nNote: Due to performance issues, we have disabled more advanced features of this mod, such as the Crafting Interface, Export/Import capabilities and Wireless capabilities."
       }
     ],
     "Slowness_Affinity": [
@@ -10883,14 +10975,14 @@
         "text": "Soul Harvester"
       },
       {
-        "text": " which is a much faster way of breaking down items to "
+        "text": " which is a much faster way of breaking down items into "
       },
       {
         "color": "light_purple",
         "text": "Soul Essence"
       },
       {
-        "text": ".\n\nThe Soul Harvester automatically pulls from an inventory above it, and automatically pushes to an inventory below it, and it is, very fast."
+        "text": ".\n\nThe Soul Harvester automatically pulls from an inventory above it, and automatically pushes to an inventory below it. And, it is \u00A7overy \u00A7rfast."
       }
     ],
     "Soul_Hunter": [
@@ -11013,7 +11105,7 @@
         "text": "Stack Upgrades"
       },
       {
-        "text": " increases the amount of items that can be stored in a single slot and there are 4 different tiers that can be crafted."
+        "text": " increase the amount of items that can be stored in a single slot and there are 4 different tiers that can be crafted."
       }
     ],
     "Step": [
@@ -11079,7 +11171,7 @@
     ],
     "Stoneskin": [
       {
-        "text": "Your skin hardens, gain extra "
+        "text": "Your skin hardens, gaining extra "
       },
       {
         "color": "#FFB00F",
@@ -13541,7 +13633,7 @@
         "text": "Forge Energy (FE)"
       },
       {
-        "text": " generators that can be upgraded and generate power out of most things, even food and enchanted books!"
+        "text": " generators that can be upgraded and generate power out of most things - even food and enchanted books!"
       },
       {
         "text": "\n\nAdds rewards to "
@@ -13552,6 +13644,11 @@
       },
       {
         "text": "!"
+      },
+      {
+        "color": "#FFF4CF",
+        "italic": true,
+        "text": "\n\nRequires Thermal Expansion to be unlocked."
       }
     ],
     "Thermal Expansion": [
@@ -13573,7 +13670,7 @@
         "text": "Thermal Expansion"
       },
       {
-        "text": " mod!\n\nA multipurpose mod that can double ores, increase efficiency of wood logs as well as produce some items from scratch!"
+        "text": " mod!\n\nA multipurpose mod that can double ores, increase the efficiency of log utilisation, as well as produce some items from scratch!"
       },
       {
         "text": "\n\nAdds rewards to "
@@ -13744,6 +13841,17 @@
         "text": ""
       },
       {
+        "color": "red",
+        "text": "\u26A0 "
+      },
+      {
+        "color": "dark_red",
+        "text": "Disabled In Vaults!\n\n"
+      },
+      {
+        "text": ""
+      },
+      {
         "color": "#90FF00",
         "text": "Grants Transmog!"
       },
@@ -13758,7 +13866,7 @@
         "text": "Torch Master "
       },
       {
-        "text": "mod!\n\nA very small but useful mod that allows you to craft torches and lamps that can block both hostile and passive mob spawning in an area of 64 blocks around it. This can not be used in the vaults to prevent mobs from spawning however."
+        "text": "mod!\n\nA very small but useful mod that allows you to craft torches and lamps that can block hostile or passive mob spawning in an area of 64 blocks around it."
       }
     ],
     "Total Control": {
@@ -13787,7 +13895,7 @@
         "text": "Poison Nova"
       },
       {
-        "text": ", of your level, when the mob dies. This effect can chain indefinitely, but requires you to have levels in "
+        "text": " of your level when the mob dies.\nThis effect can chain indefinitely, but requires you to have levels in "
       },
       {
         "color": "#6fe95a",
@@ -13870,7 +13978,7 @@
         "text": "Trashcans "
       },
       {
-        "text": "mod!\n\nThis mod provides you with easy to use trashcans, where you can void not just items, but excess fluids and energy (FE) as well."
+        "text": "mod!\n\nThis mod provides you with easy to use trashcans, where you can void excess items, fluids, and even energy (FE)."
       }
     ],
     "Treasure Hunter": [
@@ -13946,7 +14054,7 @@
         "text": "increased item rarity"
       },
       {
-        "text": " while being below "
+        "text": " while below "
       },
       {
         "color": "#7DF587",
@@ -14166,7 +14274,7 @@
         "text": "chance"
       },
       {
-        "text": " of not losing durability on gear and tools when getting hit or using them.\n\n1 "
+        "text": " to not lose durability on gear and tools when getting hit or using them.\n\n1 "
       },
       {
         "color": "#FFEB07",
@@ -14958,6 +15066,20 @@
     },
     "Waystones": [
       {
+        "text": ""
+      },
+      {
+        "color": "red",
+        "text": "\u26A0 "
+      },
+      {
+        "color": "dark_red",
+        "text": "Disabled In Vaults!\n\n"
+      },
+      {
+        "text": ""
+      },
+      {
         "text": "Unlocks the "
       },
       {
@@ -14965,7 +15087,7 @@
         "text": "Waystones "
       },
       {
-        "text": "mod!\n\nWaystones provides you with an ease of travel option. They are craftable and can be interacted with only after you unlock this research. You can travel within and cross-dimensions, however, they do not work in the vaults."
+        "text": "mod!\n\nWaystones provides you with an easy travel option. They are craftable and can only be interacted with after unlocking this research. You can travel within and across dimensions, except inside Vaults."
       }
     ],
     "Weakness_Affinity": [
@@ -15027,18 +15149,21 @@
       },
       {
         "color": "red",
-        "text": "⚠ "
+        "text": "\u26A0 "
       },
       {
         "color": "dark_red",
-        "text": "Disabled In Vaults!\n"
+        "text": "Disabled In Vaults!\n\n"
+      },
+      {
+        "text": ""
       },
       {
         "text": "Unlocks the "
       },
       {
         "color": "yellow",
-        "text": "Chunky mc chunkface"
+        "text": "Chunky McChunkFace"
       },
       {
         "text": " mod!\n\nThis mod allows you to "
@@ -15048,14 +15173,10 @@
         "text": "load"
       },
       {
-        "text": " a chunk, allowing your farms to run when you are not nearby or even offline. Chunkloading will however turn itself off when you have been offline for longer than 5 hours. If you are playing on a server, use the mod with caution as it can very quick lag the server out for your server members if over-used. By default it will "
+        "text": " a chunk, allowing your farms to run when you are not nearby or even offline. However, chunkloading will be disabled if you have been offline for more than 5 hours.\nIf you are playing on a server, use this mod with caution as excessive use can cause severe lag for other players.\nBy default it will "
       },
       {
-        "color": "aqua",
-        "text": "load"
-      },
-      {
-        "text": " the chunk it is in, if you build a 3x3 below it using the blocks in its description, you can make it an area of 9 (3x3) chunks.\nRight clicking resets your timer, sand on the bottom means it's off, sand at the top means it's on."
+        "text": "only load the chunk it is placed in. However, if you build a 3x3 structure below it using the specified blocks, you can increase this to 9 (3x3) chunks.\n\nRight-clicking resets your timer; sand on the bottom means it's off, and sand at the top means it's on."
       }
     ],
     "Well_Fit": [
@@ -15299,7 +15420,7 @@
         "text": "Xnet "
       },
       {
-        "text": "mod!\n\nXnet is a very powerful infrastructural mod, allowing you to transfer items, power (fe), fluids and redstone through one single pipe. It requires in game \"programming\" to work, but can make your contraptions considerably smaller and more efficient."
+        "text": "mod!\n\nXnet is a very powerful infrastructural mod, allowing you to transfer items, power (FE), fluids and redstone through a single pipe. It requires in game \"programming\" to work, but can make your contraptions considerably smaller and more efficient."
       }
     ]
   }
