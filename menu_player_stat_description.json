@@ -61,6 +61,10 @@
     "the_vault:trap_disarming": "Your \u00A7bchance\u00A77 to \u00A7bdisarm\u00A77 \u00A7aany trapped chest\u00A77",
 
     "the_vault:damage_undead": "Your \u00A7badditional damage\u00A77 dealt against the \u00A7aUndead\u00A77",
+    "the_vault:damage_champion": "Your \u00A7badditional damage\u00A77 dealt against \u00A7aChampions\u00A77",
+    "the_vault:damage_assassin": "Your \u00A7badditional damage\u00A77 dealt against \u00A7aAssassins\u00A77",
+    "the_vault:damage_horde": "Your \u00A7badditional damage\u00A77 dealt against \u00A7aHorde\u00A77 mobs",
+    "the_vault:damage_dungeon": "Your \u00A7badditional damage\u00A77 dealt against \u00A7aDungeon\u00A77 mobs",
 
     "the_vault:velara_affinity": "Your \u00A7badditional chance\u00A77 to gain a \u00A7bfavor\u00A77 upon \u00A7acompleting\u00A77 a \u00A7aVault God Altar\u00A77 of \u00A7aVelara\u00A77",
     "the_vault:tenos_affinity": "Your \u00A7badditional chance\u00A77 to gain a \u00A7bfavor\u00A77 upon \u00A7acompleting\u00A77 a \u00A7aVault God Altar\u00A77 of \u00A7aTenos\u00A77",
